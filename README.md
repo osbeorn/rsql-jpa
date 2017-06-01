@@ -205,7 +205,7 @@ Now some real examples of RSQL queries.
 <dependency>
     <groupId>com.github.tennaito</groupId>
     <artifactId>rsql-jpa</artifactId>
-    <version>2.0.1</version>
+    <version>2.0.2</version>
 </dependency>
 ```
 
@@ -215,6 +215,7 @@ This project is licensed under [MIT license](http://opensource.org/licenses/MIT)
 
 ## Change log
 
+- (2.0.2) Minor changes;
 - (2.0.1) Added Embeddable property Path;
 		  Resolved thread safed of Data formatting;
 		  Minor updates;
